@@ -6,7 +6,7 @@ or an '.' if a byte is not printable/visible in ascii.
 
 ## Installing
 
-Just compile..
+Just compile.
 
 ## Usage
 
