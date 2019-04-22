@@ -6,7 +6,7 @@ or an '.' if a byte is not printable/visible in ascii.
 
 ## Installing
 
-Compile with your favorite c compiler.
+Just compile..
 
 ## Usage
 
